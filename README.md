@@ -1,0 +1,2 @@
+# GeometricArtGenerator
+Django Project
